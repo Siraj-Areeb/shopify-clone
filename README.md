@@ -1,7 +1,5 @@
 # Tailwind Project
-Shopify.com Home-page Clone
-
-Cloning Shopify.com Landing Page
+**Shopify.com** Home-page Clone
 
 Hands-on Experience:
 - Tailwind CSS - 'Extensive Usage'
